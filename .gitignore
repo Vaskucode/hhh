@@ -1,1 +1,9 @@
-jhf
+int main()
+{
+//Single line commment
+//Multi-line comment
+/*
+int test1 = 1;
+double test2 = 3.3;
+*/
+}
