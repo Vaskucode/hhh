@@ -7,3 +7,10 @@ int test1 = 1;
 double test2 = 3.3;
 */
 }
+
+void LaskeYhteen(int luku1 , int luku2) { tulos = luku1 + luku2; return 
+tulos; } int main() { 
+//Blocks are indented 
+//Whitespace is not part of the syntax, but it makes code more readable: 
+int luku1= 5; int luku2 =12; //Blocks within blocks are indented again... 
+if (luku1 != NULL && luku2!=NULL) { LaskeYhteen(luku1, luku2); } }
